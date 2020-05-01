@@ -1,2 +1,2 @@
 # Analog-Clock
-Analog clock that displays the current time (EST).
+The simulation of a standard analog clock created using Javascript that moves by the second.
